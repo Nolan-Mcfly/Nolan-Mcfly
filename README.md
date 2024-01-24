@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Nolan-Mcfly
-- 👀 I’m interested in Linux, Python, PowerShell, and more.
-- 🌱 I’m currently studying cybersecurity and information assurance.
-- 💞️ I’m looking to collaborate on Security Onion and other security tools both offensive and defensive.
+- Sr. Cybersecurity Analyst and Penetration Tester.
+- Incident responder and Tier 3 Analyst.
+- Interests: Linux, Python, PowerShell and more.
