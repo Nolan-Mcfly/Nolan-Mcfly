@@ -1,3 +1,1 @@
-- Sr. Cybersecurity Analyst and Penetration Tester.
-- Incident responder and Tier 3 Analyst.
-- Interests: Linux, Python, PowerShell and more.
+
